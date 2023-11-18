@@ -1,0 +1,12 @@
+2023-11-10 21:03:13,207 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Logs
+2023-11-10 21:03:13,207 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Config
+2023-11-17 23:42:40,489 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Logs
+2023-11-17 23:42:40,489 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Config
+2023-11-17 23:42:40,490 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Completed
+2023-11-17 23:43:22,934 - TestApp - CRITICAL - Invalid Path entered!
+2023-11-17 23:43:36,007 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Logs
+2023-11-17 23:43:36,008 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Config
+2023-11-17 23:43:36,008 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Completed
+2023-11-17 23:54:09,504 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Logs
+2023-11-17 23:54:09,505 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Config
+2023-11-17 23:54:09,505 - TestApp - INFO - Folder is good: C:\Dev\PortfolioProjects\CLI-tool\Completed
